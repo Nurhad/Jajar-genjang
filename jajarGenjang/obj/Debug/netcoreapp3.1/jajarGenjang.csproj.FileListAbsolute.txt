@@ -1,0 +1,11 @@
+C:\Users\Lenovo\Desktop\jajarGenjang\bin\Debug\netcoreapp3.1\jajarGenjang.exe
+C:\Users\Lenovo\Desktop\jajarGenjang\bin\Debug\netcoreapp3.1\jajarGenjang.deps.json
+C:\Users\Lenovo\Desktop\jajarGenjang\bin\Debug\netcoreapp3.1\jajarGenjang.runtimeconfig.json
+C:\Users\Lenovo\Desktop\jajarGenjang\bin\Debug\netcoreapp3.1\jajarGenjang.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\jajarGenjang\bin\Debug\netcoreapp3.1\jajarGenjang.dll
+C:\Users\Lenovo\Desktop\jajarGenjang\bin\Debug\netcoreapp3.1\jajarGenjang.pdb
+C:\Users\Lenovo\Desktop\jajarGenjang\obj\Debug\netcoreapp3.1\jajarGenjang.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\jajarGenjang\obj\Debug\netcoreapp3.1\jajarGenjang.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\jajarGenjang\obj\Debug\netcoreapp3.1\jajarGenjang.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\jajarGenjang\obj\Debug\netcoreapp3.1\jajarGenjang.dll
+C:\Users\Lenovo\Desktop\jajarGenjang\obj\Debug\netcoreapp3.1\jajarGenjang.pdb
