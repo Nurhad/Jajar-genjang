@@ -1,5 +1,5 @@
 # Jajar-genjang
-Ini adalah Console Application untuk menampilkan pola * berbentuk Jajar Genjang.
+Ini adalah Console Application untuk menampilkan pola # berbentuk Jajar Genjang.
 
 ###### Sebelum menjalankan aplikasi ini
  1. Install Visual Studio Code.
